@@ -1,0 +1,17 @@
+# Binaries
+/md2pdf
+*.exe
+*.test
+*.out
+
+# Generated output
+*.pdf
+
+# Go workspace
+go.work
+go.work.sum
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
